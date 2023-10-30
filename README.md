@@ -68,7 +68,7 @@ a.html
     <link rel="stylesheet" href="a.css">
     <script>
         function alert(){
-            Bookurtea("your orders willbe delivered soon!!")
+            prompt("your orders willbe delivered soon!!")
         }
     </script>
 </head>
